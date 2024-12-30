@@ -1,0 +1,8 @@
+2024-12-29 19:04:16,482 - ERROR - File not found: ./data\sample-01-csv.csv
+2024-12-29 19:04:16,483 - ERROR - File not found: ./data\sample-01-dicom.dcm
+2024-12-29 19:05:46,956 - ERROR - File not found: ./data\sample-01-csv.csv
+2024-12-29 19:05:47,208 - ERROR - Error reading DICOM file: Cannot handle this data type: (1, 1, 512), |u1
+2024-12-29 19:06:54,249 - ERROR - File not found: ./data\sample-01-csv.csv
+2024-12-29 19:07:30,008 - ERROR - File not found: ./data\sample-01-csv.csv
+2024-12-29 21:24:50,868 - ERROR - File not found: ./data\sample-01-csv.csv
+2024-12-29 21:26:42,819 - ERROR - Error reading CSV file: [Errno 2] No such file or directory: './data/reports\\sample-01-csv_report.txt'
